@@ -12,7 +12,7 @@ function App() {
     setTimezones(allTimezones);
 
     const fetchTime = async () => {
-      const response = await fetch(`http://worldtimeapi.org/api/timezone/${timezone}`);
+      const response = await fetch(`https://worldtimeapi.org/api/timezone/${timezone}`);
       const timeData = await response.json();
       setTime(timeData);
     };
