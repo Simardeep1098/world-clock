@@ -9,7 +9,6 @@ function App() {
   const [timezones, setTimezones] = useState([]);
 
   useEffect(() => {
-    // Get all available timezones using moment-timezone
     const allTimezones = moment.tz.names();
     setTimezones(allTimezones);
 

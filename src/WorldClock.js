@@ -6,7 +6,7 @@ const WorldClock = () => {
   const [times, setTimes] = useState({});
 
   useEffect(() => {
-    // Fetch timezones data from a free API (example: worldtimeapi.org)
+    // Fetch timezones data from API 
     axios.get('https://worldtimeapi.org/api/timezone')
       .then(response => {
         setTimezones(response.data);
