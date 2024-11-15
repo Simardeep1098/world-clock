@@ -1,21 +1,24 @@
 body {
   margin: 0;
   font-family: 'Arial', sans-serif;
-  background: #f1f7fb;
   color: #333;
 }
+
 
 h1, h2 {
   font-weight: bold;
 }
 
 .App {
+  background-image: url(C:\Windows\System32\world-clock\public\assets\space-background.svg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #f4f7fc;
 }
 
 .time-container {

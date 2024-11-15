@@ -28,7 +28,7 @@ function App() {
   }, [timezone]);
 
   return (
-    <div className="App bg-gradient-to-b from-blue-50 to-indigo-100 min-h-screen flex flex-col justify-center items-center p-4">
+    <div className="App">
       <div className="time-container bg-white p-8 rounded-lg shadow-lg w-full sm:w-3/4 md:w-1/2 lg:w-1/3 text-center">
         <FaRegClock className="text-blue-600 text-5xl mb-4" />
         <h2 className="text-3xl font-semibold mb-4">Current Time in {timezone}</h2>
