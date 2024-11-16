@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+###World Clock Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Objective
+The goal of this project was to build a React-based web application that displays the current time in various time zones using a user-friendly interface. The application allows users to select a timezone dynamically and provides a visually appealing design, incorporating modern UI/UX principles.
+This project serves as a showcase of my ability to develop interactive web applications while utilizing third-party APIs and adhering to industry best practices for front-end development.
 
-## Available Scripts
+##Skills Learned
+React Development: Understanding of React hooks (useState, useEffect) for managing state and side effects.
+API Integration: Fetching and handling data from external time zone APIs.
+Responsive Design: Implementing a design that adapts seamlessly across various screen sizes using Tailwind CSS.
+CSS Styling: Utilizing both Tailwind CSS and custom CSS for a modern, visually appealing interface.
+Error Handling: Gracefully managing API errors and providing fallback functionality.
+Version Control: Managing the codebase effectively using Git and GitHub.
+Deployment: Deploying a React application to GitHub Pages for sharing with recruiters and users.
 
-In the project directory, you can run:
+##Tools Used
+React: Front-end library for building interactive and dynamic UI.
+Tailwind CSS: Utility-first CSS framework for rapid styling.
+Moment.js & Moment Timezone: Libraries for formatting and handling time zone data.
+GitHub Pages: Free hosting platform for deploying the application.
+VS Code: Development environment for coding and debugging.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Conclusion
+This project provided me with hands-on experience in building a React-based web application, integrating third-party APIs, and designing responsive, user-friendly interfaces. I enhanced my skills in modern JavaScript development, front-end styling with Tailwind CSS, and deploying applications for public use. The project also taught me valuable lessons in debugging, managing state in React, and adhering to best practices in web development.
+I look forward to applying these skills to more complex applications and continuing to grow as a front-end developer.
