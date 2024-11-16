@@ -1,4 +1,4 @@
-# World Clock Application
+# World Clock React Application
 
 ## Objective
 
