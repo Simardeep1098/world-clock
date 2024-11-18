@@ -7,7 +7,7 @@ This project serves as a showcase of my ability to develop interactive web appli
 
 ## Skills Learned
 
-React Development: Understanding of React hooks (useState, useEffect) for managing state and side effects.
+React Development: Understanding of React hooks for managing state and side effects.
 
 API Integration: Fetching and handling data from external time zone APIs.
 
