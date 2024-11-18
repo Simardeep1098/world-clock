@@ -19,8 +19,6 @@ Error Handling: Gracefully managing API errors and providing fallback functional
 
 Version Control: Managing the codebase effectively using Git and GitHub.
 
-Deployment: Deploying a React application to GitHub Pages for sharing with recruiters and users.
-
 ## Tools Used
 
 React: Front-end library for building interactive and dynamic UI.
@@ -28,8 +26,6 @@ React: Front-end library for building interactive and dynamic UI.
 Tailwind CSS: Utility-first CSS framework for rapid styling.
 
 Moment.js & Moment Timezone: Libraries for formatting and handling time zone data.
-
-GitHub Pages: Free hosting platform for deploying the application.
 
 VS Code: Development environment for coding and debugging.
 
