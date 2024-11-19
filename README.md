@@ -5,7 +5,9 @@
 The goal of this project was to build a React-based web application that displays the current time in various time zones using a user-friendly interface. The application allows users to select a timezone dynamically and provides a visually appealing design, incorporating modern UI/UX principles.
 This project serves as a showcase of my ability to develop interactive web applications while utilizing third-party APIs and adhering to industry best practices for front-end development.
 
-https://github.com/Simardeep1098/world-clock/blob/master/snap.png?raw=true
+![](https://github.com/Simardeep1098/world-clock/blob/master/snap.png?raw=true)
+
+
 
 ## Skills Learned
 
